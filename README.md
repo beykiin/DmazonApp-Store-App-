@@ -1,3 +1,16 @@
+<h1><i>DMAZON APP (STORE APP)</i></h1>
+<p>In my project, I list products using APIs fetched from fakestoreapi.com. You can filter them by typing in the search bar. Additionally, clicking on a product takes you to a detail page where you can view the product's description and price. While the API is loading, you'll see a loading page. If the API fails to load, a 404 not found error page is displayed.</p>
+<div style="display-flex">
+   <img src="SS1.png">
+   <img src="SS2.png">
+</div>
+<div style="display-flex">
+   <img src="SS3.png">
+   <img src="SS4.png">
+</div>
+<img src="SS5.png">
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
